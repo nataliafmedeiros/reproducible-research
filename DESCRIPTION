@@ -1,0 +1,20 @@
+Package: medeiros
+Type: Package
+Title: Natalia first compendium
+Version: 0.0.0.9000
+Authors@R: c(
+    person(given   = "Natalia",
+           family  = "Medeiros",
+           role    = c("aut", "cre", "cph"),
+           email   = "nataliaf.medeiros@hotmail.com",
+           comment = c(ORCID = "{{orcid}}")))
+Description: This is my first compedium for the reproductible research course
+URL: https://github.com/nataliafmedeiros/medeiros
+BugReports: https://github.com/nataliafmedeiros/medeiros/issues
+License: GPL-2
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Depends: 
+    here,
+    utils
